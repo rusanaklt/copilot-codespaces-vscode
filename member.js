@@ -29,4 +29,5 @@ function skillsMember() {
     var memberSkillsArrayTextValueTextValueTextValueTextValueTextValueTextValueTextValueTextValueTextValueText = [];
     var memberSkillsArrayTextValueTextValueTextValueTextValueTextValueTextValueTextValueTextValueTextValueTextValue = [];
     var memberSkillsArrayTextValueTextValueTextValueTextValueTextValueTextValueTextValueTextValueTextValueTextValueText = [];
-    var memberSkillsArrayTextValueTextValueTextValueTextValueTextValueText
+    var memberSkillsArrayTextValueTextValueTextValueTextValueTextValueText=[];
+}
